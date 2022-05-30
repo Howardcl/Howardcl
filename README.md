@@ -6,8 +6,8 @@
 - 💬 Ask me about anything [here](https://github.com/Howardcl/Howardcl/issues)
 - 📫 Reach me: linchenusc@163.com
 
-<!-- <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lddddd1997&layout=compact">-->
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=lddddd1997&count_private=true&show_icons=true">
+<!-- <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howardcl&layout=compact">-->
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Howardcl&count_private=true&show_icons=true">
 
 <!--
 **Howardcl/Howardcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
